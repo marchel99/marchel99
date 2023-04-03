@@ -4,7 +4,6 @@
 👨‍💻 I’m currently pursuing a Master's degree in Electronics and communcation<br>
 3️⃣🇩🖨️ 3D Printing enthustiast<br>
 🌱 I’m currently learning C/C++
-### Motivation :rocket:
 ------------------
 
 
