@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me:
-👨‍💻 I’m currently pursuing a Master's degree in Electronics and communication<br>
+👨‍💻 I'm currently pursuing my master's degree in Electronics and Telecommunication<br>
 3️⃣🇩🖨️ 3D Printing enthustiast<br>
 🌱 I’m currently learning C/C++
 
