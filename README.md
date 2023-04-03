@@ -1,7 +1,7 @@
 # 🔵  About Me:
-👨‍💻 I'm currently pursuing my master's degree in Electronics and Telecommunication<br>
-3️⃣🇩🖨️ 3D Printing enthustiast<br>
-🌱 I’m currently learning C/C++
+👨‍💻 Pursuing my master's degree in Electronics and Telecommunication<br>
+3️⃣🇩🖨️ I'm 3D Printing enthustiast<br>
+🌱 Currently learning C/C++
 
 ------------------
 I'm a fourth-year student at Lodz University of Technology with a passion for 3D modeling, electronics, and embedded systems. I have experience with programming languages such as C/C++, and I enjoy experimenting with new hardware and software technologies to create innovative projects.
