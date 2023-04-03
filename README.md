@@ -27,7 +27,7 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ## [Smart home automation project](https://github.com/marchel99/Smart-Home-Automation-Project)
 > C / C++ | JavaScript | Python
 
-    desktop application designed to help sneaker resellers track their spendings and earnings
+    Home automation project that utilizes 3D printed models of a house, an Arduino Mega, and a Raspberry Pi
 > 
 ![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORXRCBM9QEW1r68KelLz3Ej6251zQs7Iy24VoP7oqTjLXcgKjx49vaVNngKvtX9MygaH-t_zoMB1CmM6O4Vh3FIq4Gp=w1920-h947)
 
@@ -35,7 +35,7 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ## [Music box for a child](https://github.com/marchel99/Music-box-for-a-child)
 > C / C++
  
-    destsetsetsetsetsetset
+    Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
 > 
 ![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0oi7U7LUU45XaNWGXwdLAAPf9GVIXxtUhCV3vYJSw90MM41ed3dVDBEoP8VxbMhW-wCmZx-82ZiWD7Tw0bd4VOhbGOQ=w1920-h947)
 
