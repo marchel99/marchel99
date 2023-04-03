@@ -1,7 +1,9 @@
 # Hi there 👋
 
 👨‍💻 I’m currently pursuing a Master's degree in Electronics and communcation
+
 3️⃣🇩🖨️ 3D Printing enthustiast
+
 🌱 I’m currently learning C/C++
 
 
