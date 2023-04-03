@@ -1,6 +1,6 @@
 # 🔵  About Me:
 👨‍💻 Pursuing my master's degree in Electronics and Telecommunication<br>
-3️⃣🇩🖨️ I'm 3D Printing enthustiast<br>
+🖨️ 3D Printing enthustiast<br>
 🌱 Currently learning C/C++
 
 ------------------
