@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+👨‍💻 I’m currently pursuing a Master's degree in Electronics and communcation
+3️⃣🇩🖨️ 3D Printing enthustiast
+🌱 I’m currently learning C/C++
+
 
 I'm a 4th year student at Lodz University of Technology, with a passion for 3D modeling, electronics, and embedded systems. I have experience with programming languages such as C/C++, and I enjoy experimenting with new hardware and software technologies to create innovative projects.
 
