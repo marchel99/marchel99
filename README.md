@@ -1,4 +1,4 @@
-# 👨🏼‍💻 About Me:
+# 🔵  About Me:
 👨‍💻 I'm currently pursuing my master's degree in Electronics and Telecommunication<br>
 3️⃣🇩🖨️ 3D Printing enthustiast<br>
 🌱 I’m currently learning C/C++
