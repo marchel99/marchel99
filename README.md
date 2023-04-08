@@ -19,8 +19,11 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
 ![marchel99's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=transparent)
+![image]( https://github-readme-stats.vercel.app/api/top-langs/?username=marchel99&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117 ) <br>
+
+
+
 
 # ⌨️ Latest Projects:
 
@@ -40,7 +43,6 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0oi7U7LUU45XaNWGXwdLAAPf9GVIXxtUhCV3vYJSw90MM41ed3dVDBEoP8VxbMhW-wCmZx-82ZiWD7Tw0bd4VOhbGOQ=w1920-h947)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchel99&hide_progress=true)](https://github.com/marchel99/github-readme-stats)
 
 
 <!--
