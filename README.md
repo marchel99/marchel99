@@ -40,7 +40,7 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0oi7U7LUU45XaNWGXwdLAAPf9GVIXxtUhCV3vYJSw90MM41ed3dVDBEoP8VxbMhW-wCmZx-82ZiWD7Tw0bd4VOhbGOQ=w1920-h947)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
