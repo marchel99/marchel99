@@ -20,8 +20,6 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![marchel99's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=transparent)
-![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxS9cvNl9_nI9hJnL_1zorkk833OWiYmFElXeyCA2vOXy7iHNUITFeKZwi9MD8fnqiKK_-2c34meNM_JqjnpF-Y-XJoQ=w1920-h947 ) <br>
-
 
 
 
@@ -32,15 +30,14 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 
     Home automation project that utilizes 3D printed models of a house, an Arduino Mega, and a Raspberry Pi
 > 
-![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORXRCBM9QEW1r68KelLz3Ej6251zQs7Iy24VoP7oqTjLXcgKjx49vaVNngKvtX9MygaH-t_zoMB1CmM6O4Vh3FIq4Gp=w1920-h947)
-
+![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxS9cvNl9_nI9hJnL_1zorkk833OWiYmFElXeyCA2vOXy7iHNUITFeKZwi9MD8fnqiKK_-2c34meNM_JqjnpF-Y-XJoQ=w1920-h947 ) 
 
 ## [Music box for a child](https://github.com/marchel99/Music-box-for-a-child)
 > C / C++
  
     Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
 > 
-![image]([https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0oi7U7LUU45XaNWGXwdLAAPf9GVIXxtUhCV3vYJSw90MM41ed3dVDBEoP8VxbMhW-wCmZx-82ZiWD7Tw0bd4VOhbGOQ=w1920-h947](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pldBFBoVPreZV5F7kGP64z4FLIvWCf5nmasmZk0G7Z4Fjuci_BEF3ttF7ST5Gwok9B4JUgQKDA4eGAGf32gf25Vq1iVw=w1920-h947))
+![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pldBFBoVPreZV5F7kGP64z4FLIvWCf5nmasmZk0G7Z4Fjuci_BEF3ttF7ST5Gwok9B4JUgQKDA4eGAGf32gf25Vq1iVw=w1920-h947   )
 
 
 
