@@ -24,6 +24,12 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 
 
 # ⌨️ Latest Projects:
+## [Autonomus car project](https://github.com/marchel99/-Autonomus-Car-Project)
+> C / C++
+ 
+    This project is a group project for our master studies, where we aim to create a small autonomous car using an ESP32 microcontroller
+> 
+![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pn5Rtz7TAvlFyOSZZMD667DSvY_cXLQLKG1aW6saLcxU7NiP1ps68i9V2EuKcpHdmAqUFsKy0uPZDkD7MeNQLXZYMq=w1920-h947 )
 
 ## [Smart home automation project](https://github.com/marchel99/Smart-Home-Automation-Project)
 > C / C++ | JavaScript | Python
@@ -38,6 +44,11 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
     Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
 > 
 ![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pldBFBoVPreZV5F7kGP64z4FLIvWCf5nmasmZk0G7Z4Fjuci_BEF3ttF7ST5Gwok9B4JUgQKDA4eGAGf32gf25Vq1iVw=w1920-h947   )
+
+
+
+
+
 
 
 
