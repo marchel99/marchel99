@@ -22,7 +22,6 @@ Feel free to take a look at my Github profile and reach out to me for collaborat
 ![marchel99's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=transparent)
 
 
-
 # ⌨️ Latest Projects:
 ## [Autonomus car project](https://github.com/marchel99/-Autonomus-Car-Project)
 > C / C++
