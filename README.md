@@ -4,13 +4,13 @@
 🌱 Currently learning C/C++
 
 ------------------
-I'm a fourth-year student at Lodz University of Technology with a passion for 3D modeling, electronics, and embedded systems. I have experience with programming languages such as C/C++, and I enjoy experimenting with both hardware and software technologies to create innovative projects.
+I am a senior-year student at Lodz University of Technology, deeply interested in 3D modeling, electronics, and embedded systems. My skillset includes programming languages like C/C++, and I am passionate about exploring both hardware and software technologies to develop creative projects.
 
-On my Github profile, you'll find a collection of my projects, ranging from simple LED blinking projects to complex robotic systems. I believe in open-source software and hardware, and I love sharing my knowledge with others by contributing to various Github repositories.
+My GitHub profile showcases an array of projects, from basic LED blinking tasks to intricate robotic systems. I am a strong advocate for open-source software and hardware and take pleasure in sharing my expertise by contributing to various GitHub repositories.
 
-One of the areas where I believe my skills in 3D modeling can truly shine is in creating custom enclosures, cases, and structures for my electronic projects. I believe that the combination of 3D modeling, electronics, and programming has tremendous potential for innovation, and I'm excited to explore this area further.
+I believe that my 3D modeling abilities can excel in designing custom enclosures, cases, and structures for electronic projects. The fusion of 3D modeling, electronics, and programming offers immense possibilities for innovation, and I am eager to delve deeper into this domain.
 
-Feel free to take a look at my Github profile and reach out to me for collaboration or project ideas. I'm always excited to work on new and challenging projects that push the boundaries of what's possible in electronics and programming.
+Please feel free to browse my GitHub profile and contact me for collaborations or project suggestions. I am always thrilled to take on new and demanding projects that challenge the limits of electronics and programming.
 
 ------------------
 # 💻 Tech Stack:
