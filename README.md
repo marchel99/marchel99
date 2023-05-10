@@ -1,12 +1,12 @@
 # 🔵  About Me:
 👨‍💻 Pursuing my master's degree in Electronics and Telecommunication<br>
-🖨️ 3D Printing enthustiast<br>
+🖨️ 3D Printing enthustiast and currently working in the industry<br>
 🌱 Currently learning C/C++
 
 ------------------
 I am a senior-year student at Lodz University of Technology, deeply interested in 3D modeling, electronics, and embedded systems. My skillset includes programming languages like C/C++, and I am passionate about exploring both hardware and software technologies to develop creative projects.
 
-My GitHub profile showcases an array of projects, from basic LED blinking tasks to intricate robotic systems. I am a strong advocate for open-source software and hardware and take pleasure in sharing my expertise by contributing to various GitHub repositories.
+My GitHub profile features a range of projects that involve microcontrollers like Arduino, Raspberry Pi, ESP32, and STM32. These projects showcase my dedication to blending hardware and software components to create innovative solutions in the realm of electronics and telecommunication.
 
 I believe that my 3D modeling abilities can excel in designing custom enclosures, cases, and structures for electronic projects. The fusion of 3D modeling, electronics, and programming offers immense possibilities for innovation, and I am eager to delve deeper into this domain.
 
