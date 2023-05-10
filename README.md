@@ -4,7 +4,7 @@
 🌱 Currently learning C/C++
 
 ------------------
-I'm a fourth-year student at Lodz University of Technology with a passion for 3D modeling, electronics, and embedded systems. I have experience with programming languages such as C/C++, and I enjoy experimenting with new hardware and software technologies to create innovative projects.
+I'm a fourth-year student at Lodz University of Technology with a passion for 3D modeling, electronics, and embedded systems. I have experience with programming languages such as C/C++, and I enjoy experimenting with both hardware and software technologies to create innovative projects.
 
 On my Github profile, you'll find a collection of my projects, ranging from simple LED blinking projects to complex robotic systems. I believe in open-source software and hardware, and I love sharing my knowledge with others by contributing to various Github repositories.
 
