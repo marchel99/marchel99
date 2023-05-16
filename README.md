@@ -10,7 +10,7 @@ My GitHub profile features a range of projects that involve microcontrollers lik
 
 I believe that my 3D modeling abilities can excel in designing custom enclosures, cases, and structures for electronic projects. The fusion of 3D modeling, electronics, and programming offers immense possibilities for innovation, and I am eager to delve deeper into this domain.
 
-Please feel free to browse my GitHub profile and contact me for collaborations or project suggestions. I am always thrilled to take on new and demanding projects that challenge the limits of electronics and programming!
+Please feel free to browse my GitHub profile and contact me for collaborations or project suggestions. I am always thrilled to take on new and demanding projects that challenge the limits of electronics and programming
 
 ------------------
 # 💻 Tech Stack:
