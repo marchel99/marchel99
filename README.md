@@ -1,18 +1,16 @@
-# 🔵  About Me:
-👨‍💻 Pursuing my master's degree in Electronics and Telecommunication<br>
-🖨️ 3D Printing enthustiast and currently working in the industry<br>
-🌱 Currently learning C/C++
+# Hello, World! 🚀
 
+I'm Kuba, a motivated master's student in Electronics and Telecommunication at Lodz University of Technology. Concurrently, I'm an active professional in the 3D printing industry, applying my skills to craft detailed projects. I am adept in C/C++ and continuously find myself drawn towards the blend of electronics, programming, and 3D modeling in creating unique and compelling projects.
 ------------------
-I am a senior-year student at Lodz University of Technology, deeply interested in 3D modeling, electronics, and embedded systems. My skillset includes programming languages like C/C++, and I am passionate about exploring both hardware and software technologies to develop creative projects.
+# Expertise & Interests 🛠️🎓
 
-My GitHub profile features a range of projects that involve microcontrollers like Arduino, Raspberry Pi, ESP32, and STM32. These projects showcase my dedication to blending hardware and software components to create innovative solutions in the realm of electronics and telecommunication.
-
-I believe that my 3D modeling abilities can excel in designing custom enclosures, cases, and structures for electronic projects. The fusion of 3D modeling, electronics, and programming offers immense possibilities for innovation, and I am eager to delve deeper into this domain.
-
-Please feel free to browse my GitHub profile and contact me for collaborations or project suggestions. I am always thrilled to take on new and demanding projects that challenge the limits of electronics and programming
+👨‍💻 Embedded Software Development: I have a strong foundation in C/C++, with a particular interest in embedded systems. The ability to write efficient code and integrate it with hardware components is a fascinating aspect of my work, providing both a challenge and a creative outlet.
  
- 
+🎓 Electronic Engineering: During my studies as an Electronic Engineer, I have worked on numerous projects involving low-level programming languages and an array of microcontrollers like Arduino, Raspberry Pi, ESP32, and STM32. These experiences have significantly honed my skills in electronics and embedded system design.
+
+📟 Hardware Development: I have substantial skills in developing and troubleshooting electronic hardware. This includes designing intricate circuits, power management systems for optimum efficiency, and implementing filters for signal integrity and noise reduction. My comprehensive understanding of electronic components ensures robust and reliable hardware for my projects.
+
+🛠️ 3D Modeling & Printing: My professional experience in the 3D printing industry has refined my skills in designing custom enclosures, cases, and structures for electronic projects. Combining 3D modeling with electronics allows me to create tangible and functional designs.
 
 ------------------
 # 💻 Tech Stack:
@@ -25,6 +23,7 @@ Please feel free to browse my GitHub profile and contact me for collaborations o
  
  
 # ⌨️ Latest Projects:
+My GitHub profile showcases a variety of projects where I've merged my electronics knowledge, 3D printing skills, and programming expertise. Each one is a testament to my ability to integrate various technology domains and innovate solutions.
 ## [Autonomus car project](https://github.com/marchel99/-Autonomus-Car-Project)
 > C / C++
  
