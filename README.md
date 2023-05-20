@@ -14,10 +14,12 @@ I'm Kuba, a motivated master's student in Electronics and Telecommunication at L
 
 ------------------
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,visualstudio,vscode,cmake&theme=dark&perline=8)](https://skillicons.dev)
+
+ 
+ 
+ 
+ 
 
 ![marchel99's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=transparent)
  
