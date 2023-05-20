@@ -1,7 +1,9 @@
 # Hello, World! 🚀
-
 I'm Kuba, a motivated master's student in Electronics and Telecommunication at Lodz University of Technology. Concurrently, I'm an active professional in the 3D printing industry, applying my skills to craft detailed projects. I am adept in C/C++ and continuously find myself drawn towards the blend of electronics, programming, and 3D modeling in creating unique and compelling projects.
 ------------------
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,visualstudio,vscode,cmake&theme=dark&perline=8)](https://skillicons.dev)
+
 # Expertise & Interests 🛠️🎓
 
 👨‍💻 Embedded Software Development: I have a strong foundation in C/C++, with a particular interest in embedded systems. The ability to write efficient code and integrate it with hardware components is a fascinating aspect of my work, providing both a challenge and a creative outlet.
@@ -13,8 +15,6 @@ I'm Kuba, a motivated master's student in Electronics and Telecommunication at L
 🛠️ 3D Modeling & Printing: My professional experience in the 3D printing industry has refined my skills in designing custom enclosures, cases, and structures for electronic projects. Combining 3D modeling with electronics allows me to create tangible and functional designs.
 
 ------------------
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,visualstudio,vscode,cmake&theme=dark&perline=8)](https://skillicons.dev)
 
  
  
