@@ -15,21 +15,31 @@ I'm Kuba, a motivated master's student in Electronics and Telecommunication at L
 🛠️ 3D Modeling & Printing: My professional experience in the 3D printing industry has refined my skills in designing custom enclosures, cases, and structures for electronic projects. Combining 3D modeling with electronics allows me to create tangible and functional designs.
 
 ------------------
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/marchel99/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchel99&langs_count=3&theme=radical" alt="Top Langs">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/marchel99/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=radical" alt="marchel99's GitHub stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
- 
- 
- 
- 
 
-![marchel99's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchel99&show_icons=true&theme=transparent)
- 
+
+
  
 # ⌨️ Latest Projects:
 My GitHub profile showcases a variety of projects where I've merged my electronics knowledge, 3D printing skills, and programming expertise. Each one is a testament to my ability to integrate various technology domains and innovate solutions.
-## [Autonomus car project](https://github.com/marchel99/-Autonomus-Car-Project)
+## [Autonomous car project](https://github.com/marchel99/-Autonomus-Car-Project)
 > C / C++
  
-    This project is a group project for our master studies, where we aim to create a small autonomous car using an ESP32 microcontroller
+    A group endeavor for our Master's degree, we aim to fabricate a small autonomous car steered by an ESP32 microcontroller.
 > 
 ![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pn5Rtz7TAvlFyOSZZMD667DSvY_cXLQLKG1aW6saLcxU7NiP1ps68i9V2EuKcpHdmAqUFsKy0uPZDkD7MeNQLXZYMq=w1920-h947 )
 
