@@ -1,7 +1,7 @@
 # Hello, World! 🚀
-Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunication at Lodz University of Technology. Despite being entangled in the academic world, I've managed to sharpen my skills in C and C++ programming languages, and the captivating art of electronics. Currently, I'm actively involved in the 3D printing industry, bringing my 3D modeling skills to the table. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all designed with a blend of 3D printing technology, coding, and electronic circuit design.
+Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunication at Lodz University of Technology. Despite being entangled in the academic world, I've managed to sharpen my skills in C and C++ programming languages, and the captivating art of electronics. Currently, I'm actively involved in the 3D printing industry, bringing my 3D modeling skills to the table. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all crafted through a combination of 3D printing technology, programming, and electronic circuit design.
 
-But that's not where I plan to stop. The ultimate destination of my academic journey and work experience is to plunge into the exciting world of Embedded Systems. On my GitHub profile, you'll see a fusion of practical designs and cool, eye-catching projects. Because let's be real, who ever said practical couldn't be cool, right?
+But that's not where my ambitions end. The ultimate destination of my academic journey and work experience is to plunge into the exciting world of Embedded Systems. On my GitHub profile, you'll see a fusion of practical designs and cool, eye-catching projects. Because let's be real, who ever said practical couldn't be cool, right?
 
 ---
 
@@ -16,9 +16,9 @@ But that's not where I plan to stop. The ultimate destination of my academic jou
 
 - 📟 **Hardware Development**: I'm adept at developing and troubleshooting electronic hardware, designing complex circuits, optimizing power management systems, and implementing filters for maintaining signal integrity and reducing noise. My profound understanding of electronic components ensures the development of robust and reliable hardware for my projects.
 
-- 📡 **Communication Protocols**: I am familiar with various communication protocols such as I2C, SPI, UART, and TCP/IP, which are essential in the field of embedded systems. 
+- 📡 **Communication Protocols**: I have familiarity with various communication protocols such as I2C, SPI, UART, and TCP/IP, which are essential in the field of embedded systems. 
 
-- 🛠️ **3D Modeling & Printing**: Working in the 3D printing industry has enhanced my ability to design bespoke enclosures, cases, and structures for electronic projects. By integrating 3D modeling with electronics, I am able to breathe life into designs that are not just functional, but also aesthetically pleasing.
+- 🛠️ **3D Modeling & Printing**: Working in the 3D printing industry has enhanced my ability to design bespoke enclosures, cases, and structures for electronic projects. By integrating 3D modeling with electronics, I can create designs that are both functional and aesthetically pleasing.
 
 ---
 
@@ -66,7 +66,9 @@ Over time, I've worked on a wide array of projects that showcase my skills in el
 ![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pldBFBoVPreZV5F7kGP64z4FLIvWCf5nmasmZk0G7Z4Fjuci_BEF3ttF7ST5Gwok9B4JUgQKDA4eGAGf32gf25Vq1iVw=w1920-h947   )
 
 
+# 📫 How to reach me:
 
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jakub-marchelski) or email me at **kubamarchelski@live.com**. I'm always open to new opportunities and collaborations.
 
 
 
