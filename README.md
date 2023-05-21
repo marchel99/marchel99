@@ -6,7 +6,7 @@ But that's not where I plan to stop. The ultimate destination of my academic jou
 ---
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,visualstudio,vscode,cmake&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,vscode,cmake,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 # Expertise & Interests 🛠️🎓
 
