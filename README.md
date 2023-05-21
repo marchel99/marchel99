@@ -45,21 +45,21 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 Over time, I've worked on a wide array of projects that showcase my skills in electronics, 3D printing, and programming. Each project is a testament to my ability to merge different technology domains and innovate effective solutions. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all crafted through a combination of 3D printing technology, programming, and electronic circuit design.
 
 ## [Autonomous car project](https://github.com/marchel99/-Autonomus-Car-Project)
-> C / C++
+> C 
  
     For our Master's degree group project, we set out to build a small autonomous car controlled by an ESP32 microcontroller.
 > 
 ![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pn5Rtz7TAvlFyOSZZMD667DSvY_cXLQLKG1aW6saLcxU7NiP1ps68i9V2EuKcpHdmAqUFsKy0uPZDkD7MeNQLXZYMq=w1920-h947 )
 
 ## [Smart home automation project](https://github.com/marchel99/Smart-Home-Automation-Project)
-> C / C++ | JavaScript | Python
+> C++ | JavaScript | Python
 
     Home automation project that utilizes 3D printed models of a house, an Arduino Mega, and a Raspberry Pi
 > 
 ![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxS9cvNl9_nI9hJnL_1zorkk833OWiYmFElXeyCA2vOXy7iHNUITFeKZwi9MD8fnqiKK_-2c34meNM_JqjnpF-Y-XJoQ=w1920-h947 ) 
 
 ## [Music box for a child](https://github.com/marchel99/Music-box-for-a-child)
-> C / C++
+> C++
  
     Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
 > 
