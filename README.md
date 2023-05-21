@@ -12,7 +12,7 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 
 - 👨‍💻 **Embedded Software Development**: With a strong foundation in C/C++, I see embedded systems as the perfect playground to combine my love for coding and hardware. The blend of coding and hardware presents an engaging challenge for me, as I strive to efficiently design and implement system-level software.
 
-- 🎓 **Electronic Engineering**: I hold a BSc in Engineering with a focus on Control Systems of Intelligent Buildings, and I'm currently pursuing an MSc in Electronics and Telecommunication. Throughout my academic journey, I've been heavily involved with low-level programming languages, and I've gained significant hands-on experience with various microcontrollers including Arduino, Raspberry Pi, ESP32, and STM32.
+- 🎓 **Academic Background**: I hold a BSc in Engineering with a focus on Control Systems of Intelligent Buildings, and I'm currently pursuing an MSc in Electronics and Telecommunication. Throughout my academic journey, I've been heavily involved with low-level programming languages, and I've gained significant hands-on experience with various microcontrollers including Arduino, Raspberry Pi, ESP32, and STM32.
 
 - 📟 **Hardware Development**: I'm adept at developing and troubleshooting electronic hardware, designing complex circuits, optimizing power management systems, and implementing filters for maintaining signal integrity and reducing noise. My profound understanding of electronic components ensures the development of robust and reliable hardware for my projects.
 
