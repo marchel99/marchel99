@@ -22,7 +22,7 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 
 ---
 
-<div align="center">
+<div align="left">
     <table>
       <tr>
         <td valign="top">
