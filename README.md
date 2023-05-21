@@ -1,5 +1,5 @@
 # Hello, World! 🚀
-Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunication at Lodz University of Technology. Despite being entangled in the academic world, I've managed to sharpen my skills in C and C++ programming languages, and the captivating art of electronics. Currently, I'm in the heart of the 3D printing industry, bringing my 3D modeling skills to the table. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all designed with a blend of 3D printing technology, coding, and electronic circuit design.
+Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunication at Lodz University of Technology. Despite being entangled in the academic world, I've managed to sharpen my skills in C and C++ programming languages, and the captivating art of electronics. Currently, I'm actively involved in the 3D printing industry, bringing my 3D modeling skills to the table. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all designed with a blend of 3D printing technology, coding, and electronic circuit design.
 
 But that's not where I plan to stop. The ultimate destination of my academic journey and work experience is to plunge into the exciting world of Embedded Systems. On my GitHub profile, you'll see a fusion of practical designs and cool, eye-catching projects. Because let's be real, who ever said practical couldn't be cool, right?
 
@@ -10,11 +10,13 @@ But that's not where I plan to stop. The ultimate destination of my academic jou
 
 # Expertise & Interests 🛠️🎓
 
-- 👨‍💻 **Embedded Software Development**: With a strong foundation in C/C++, I see embedded systems as the perfect playground to combine my love for coding and hardware. It's not just a challenge - it's a creative adventure.
+- 👨‍💻 **Embedded Software Development**: With a strong foundation in C/C++, I see embedded systems as the perfect playground to combine my love for coding and hardware. The blend of coding and hardware presents an engaging challenge for me, as I strive to efficiently design and implement system-level software.
 
-- 🎓 **Electronic Engineering**: My academic journey in Electronic Engineering, a has allowed me to tinker with an array of projects, dabbling in low-level programming languages and diverse microcontrollers such as Arduino, Raspberry Pi, ESP32, and STM32. This hands-on experience has significantly sharpened my electronics and embedded system design skills.
+- 🎓 **Electronic Engineering**: I hold a BSc in Engineering with a focus on Control Systems of Intelligent Buildings, and I'm currently pursuing an MSc in Electronics and Telecommunication. Throughout my academic journey, I've been heavily involved with low-level programming languages, and I've gained significant hands-on experience with various microcontrollers including Arduino, Raspberry Pi, ESP32, and STM32.
 
 - 📟 **Hardware Development**: I'm adept at developing and troubleshooting electronic hardware, designing complex circuits, optimizing power management systems, and implementing filters for maintaining signal integrity and reducing noise. My profound understanding of electronic components ensures the development of robust and reliable hardware for my projects.
+
+- 📡 **Communication Protocols**: I am familiar with various communication protocols such as I2C, SPI, UART, and TCP/IP, which are essential in the field of embedded systems. 
 
 - 🛠️ **3D Modeling & Printing**: Working in the 3D printing industry has enhanced my ability to design bespoke enclosures, cases, and structures for electronic projects. By integrating 3D modeling with electronics, I am able to breathe life into designs that are not just functional, but also aesthetically pleasing.
 
