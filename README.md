@@ -8,7 +8,7 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,blender,eclipse,vscode,cmake,linux&theme=dark&perline=8)](https://skillicons.dev)
 
-# Expertise & Interests 🛠️🎓
+# Expertise & Interests 🛠️🎓 
 
 - 👨‍💻 **Embedded Software Development**: With a strong foundation in C/C++, I see embedded systems as the perfect playground to combine my love for coding and hardware. The blend of coding and hardware presents an engaging challenge for me, as I strive to efficiently design and implement system-level software.
 
