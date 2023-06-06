@@ -2,7 +2,6 @@
 Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunication at Lodz University of Technology. Despite being entangled in the academic world, I've managed to sharpen my skills in C and C++ programming languages, and the captivating art of electronics. Currently, I'm actively involved in the 3D printing industry, bringing my 3D modeling skills to the table. 
 
 But that's not where my ambitions end. The ultimate destination of my academic journey and work experience is to plunge into the exciting world of Embedded Systems. On my GitHub profile, you'll see a fusion of practical designs and cool, eye-catching projects. Because let's be real, who ever said practical couldn't be cool, right?
-
 ---
 
 # 💻 Tech Stack:
