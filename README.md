@@ -44,26 +44,26 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 # ⌨️ Latest Projects:
 Over time, I've worked on a wide array of projects that showcase my skills in electronics, 3D printing, and programming. Each project is a testament to my ability to merge different technology domains and innovate effective solutions. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all crafted through a combination of 3D printing technology, programming, and electronic circuit design.
 
-## [Autonomous car project](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pkGAzDhQPmR0mKTEeV4Y76XDuXOTbmWqtilzJTPekIHljVZmhvq1LRp6KpXR1AzDPU2vLq6kXQcUHnD5L9NIMZhzD_=w1037-h823)
+## [Autonomous car project]( https://i.imgur.com/eE6jC27.png )
 > C 
  
     For our Master's degree group project, we set out to build a small autonomous car controlled by an ESP32 microcontroller.
 > 
-![image]( https://drive.google.com/file/d/1z_QH2FRr8ibcMjIaM4_bG2yqp9YbO2kP/view?usp=drive_link)
+![image](https://i.imgur.com/eE6jC27.png)
 
 ## [Smart home automation project](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pw2rqlc8jg-nxpQghekB7IljBlMgGLAaFNSdYLf26esTUeO_S4Yyptx6cPBQzMhym4nyIQCV_1eFEo8r3veSi6H0vY=w1920-h947)
 > C++ | JavaScript | Python
 
     Home automation project that utilizes 3D printed models of a house, an Arduino Mega, and a Raspberry Pi
 > 
-![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxS9cvNl9_nI9hJnL_1zorkk833OWiYmFElXeyCA2vOXy7iHNUITFeKZwi9MD8fnqiKK_-2c34meNM_JqjnpF-Y-XJoQ=w1920-h947 ) 
+![image](https://i.imgur.com/4KiGlZF.png)
 
-## [Music box for a child](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pQjp5J8NUJK9R7STXSBdTFjo6EnXSeuK6tNbXvqmtNTb3pqxcVDMR7a6h3UElsQRmZ-aM3nPHg-eTLluuHjcIbuF3kjg=w1037-h795)
+## [Music box for a child](ttps://imgur.com/tOvbmK0)
 > C++
  
     Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
 > 
-![image]( https://lh3.googleusercontent.com/drive-viewer/AFGJ81pldBFBoVPreZV5F7kGP64z4FLIvWCf5nmasmZk0G7Z4Fjuci_BEF3ttF7ST5Gwok9B4JUgQKDA4eGAGf32gf25Vq1iVw=w1920-h947   )
+![image]( https://i.imgur.com/tOvbmK0.png)
 
 
 # 📫 How to reach me:
