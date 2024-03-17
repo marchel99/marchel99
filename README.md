@@ -50,23 +50,21 @@ Over time, I've worked on a wide array of projects that showcase my skills in el
  
     For our Master's degree group project, we set out to build a small autonomous car controlled by an ESP32 microcontroller.
 > 
-![image](https://i.imgur.com/eE6jC27.png)
+[![Autonomus car project](https://i.imgur.com/eE6jC27.png)](https://github.com/marchel99/-Autonomus-Car-Project)
 
 ## [Smart home automation project](        https://github.com/marchel99/Smart-Home-Automation-Project        )
 > C++ | JavaScript | Python
 
     Home automation project that utilizes 3D printed models of a house, an Arduino Mega, and a Raspberry Pi
 > 
-![image](https://i.imgur.com/4KiGlZF.png)
 
+[![Autonomus car project](      https://i.imgur.com/4KiGlZF.png       )](        https://github.com/marchel99/Smart-Home-Automation-Project                      )
 ## [Music box for a child]( https://github.com/marchel99/Music-box-for-a-child         )
 > C++
  
     Music box I made for my godson, which allows him to select and play different songs using a rotary encoder. 
-> 
-![image]( https://i.imgur.com/tOvbmK0.png)
 
-
+[![Autonomus car project](     https://i.imgur.com/tOvbmK0.png   )](         https://github.com/marchel99/Music-box-for-a-child                  )
 # 📫 How to reach me:
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jakub-marchelski) or email me at **kubamarchelski@live.com**. I'm always open to new opportunities and collaborations.
