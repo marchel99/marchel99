@@ -50,7 +50,7 @@ Over time, I've worked on a wide array of projects that showcase my skills in el
  
     For our Master's degree group project, we set out to build a small autonomous car controlled by an ESP32 microcontroller.
 > 
-[![Autonomus car project](https://i.imgur.com/eE6jC27.png)](https://github.com/marchel99/-Autonomus-Car-Project)
+[![Autonomus car project](        https://i.imgur.com/hcqoI6m.png       )](https://github.com/marchel99/-Autonomus-Car-Project)
 
 ## [Smart home automation project](        https://github.com/marchel99/Smart-Home-Automation-Project        )
 > C++ | JavaScript | Python
