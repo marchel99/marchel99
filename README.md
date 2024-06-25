@@ -4,6 +4,7 @@ Welcome! I'm Kuba, a passionate master's student in Electronics and Telecommunic
 But that's not where my ambitions end. The ultimate destination of my academic journey and work experience is to plunge into the exciting world of Embedded Systems. On my GitHub profile, you'll see a fusion of practical designs and cool, eye-catching projects. Because let's be real, who ever said practical couldn't be cool, right?
 
 
+
 ---
 
 # 💻 Tech Stack:
