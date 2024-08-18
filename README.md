@@ -49,7 +49,8 @@ Over time, I've worked on a wide array of projects that showcase my skills in el
 ## [An energy-independent air quality monitoring system powered by solar energy]( https://github.com/marchel99/31_05_2024    )
 > C 
  
-    My master's thesis, designed to autonomously monitor and report environmental air quality parameters using solar power for complete energy independence.
+    My master's thesis, designed to autonomously monitor and report environmental air quality parameters
+    using solar power for complete energy independence.
 > 
 [![Autonomus car project](      https://i.imgur.com/JUhi31Z.png   )](https://github.com/marchel99/31_05_2024)
 
