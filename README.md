@@ -46,6 +46,14 @@ But that's not where my ambitions end. The ultimate destination of my academic j
 # ⌨️ Latest Projects:
 Over time, I've worked on a wide array of projects that showcase my skills in electronics, 3D printing, and programming. Each project is a testament to my ability to merge different technology domains and innovate effective solutions. My portfolio includes an autonomous car project, a 1:50 scale smart home model, and a music box for a child - all crafted through a combination of 3D printing technology, programming, and electronic circuit design.
 
+## [An energy-independent air quality monitoring system powered by solar energy]( https://github.com/marchel99/31_05_2024    )
+> C 
+ 
+    My master's thesis, designed to autonomously monitor and report environmental air quality parameters using solar power for complete energy independence.
+> 
+[![Autonomus car project](      https://i.imgur.com/JUhi31Z.png   )](https://github.com/marchel99/31_05_2024)
+
+
 ## [Autonomous car project]( https://github.com/marchel99/-Autonomus-Car-Project         )
 > C 
  
